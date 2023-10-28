@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simon Tarboush / Site Title"
+title                    : "Simon Tarboush / Homepage"
 title_separator          : "-"
 name                     : &name "Simon Tarboush"
-description              : &description "personal description"
+description              : &description "My Homepage"
 url                      : https://simontarboush.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simontarboush.github.io"
