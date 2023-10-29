@@ -16,4 +16,4 @@ My research interests include signal processing, algorithm design, channel model
 
 What is new:
 =====
-**2023.8:**  Moved to Dubai, UAE. \
+**2023.8:**  Moved to Dubai, UAE.
