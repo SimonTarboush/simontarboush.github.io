@@ -16,8 +16,8 @@ Ongoing Works:
 Journal Papers:
 ======
 [**J2**] **S. Tarboush**, H. Sarieddeen, H. Chen, M.H. Loukil, H. Jemma, M.S. Alouini, and T.Y. Al-Naffouri. "TeraMIMO: A Channel Simulator for Wideband Ultra-Massive MIMO Terahertz Communications." IEEE Transactions on Vehicular Technology, 2021.
-\[[paper]((https://ieeexplore.ieee.org/document/9591285))\]
-\[[<span style="color:blue">code</span>]([https://github.com/hasarieddeen/TeraMIMO](https://github.com/SimonTarboush/TeraMIMO))\]
+\[[paper](https://ieeexplore.ieee.org/document/9591285)\]
+\[[<span style="color:blue">code</span>](https://github.com/SimonTarboush/TeraMIMO)\]
 
 Conference Papers:
 ======
