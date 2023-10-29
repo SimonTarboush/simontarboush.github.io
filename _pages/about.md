@@ -10,7 +10,9 @@ redirect_from:
 
 Biography:
 =====
-Simon Tarboush is currently a senior researcher at electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in Aug. 2021. His research interests include signal processing, algorithm design, channel modeling, practical measurements in the terahertz domain, and applying artificial intelligence and machine learning techniques to wireless communications.
+Simon Tarboush is currently a research consultant at electrical and computer engineering at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl) and [Communication Theory Lab](https://cemse.kaust.edu.sa/ctl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri) and [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/ctl/people/person/mohamed-slim-alouini)), Thuwal, Saudi Arabia.
+I earned both a B.Sc. in Communication Engineering and an M.Sc. in Radio and Mobile Communication Systems from [Higher Institute for Applied Sciences and Technology (HIAST)](https://hiast.edu.sy/en)
+My research interests include signal processing, algorithm design, channel modeling and estimation, practical measurements in the terahertz domain, and applying artificial intelligence and machine learning techniques to wireless communications.
 
 What is new:
 =====
