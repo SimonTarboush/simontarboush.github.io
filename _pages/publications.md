@@ -22,6 +22,6 @@ Journal Papers:
 Conference Papers:
 ======
 [**C1**] **S. Tarboush**, A. Ali, and T. Y. Al-Naffouri. "Compressive Estimation of Near Field Channels for Ultra Massive-MIMO Wideband THz Systems." IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
-\[[paper](https://ieeexplore.ieee.org/abstract/document/10096832))\]
+\[[paper](https://ieeexplore.ieee.org/abstract/document/10096832)\]
 \[[<span style="color:blue">code</span>](https://github.com/SimonTarboush/Compressive-Estimation-of-Near-Field-Channels-for-Ultra-Massive-Mimo-Wideband-THz-Systems)\]
 
